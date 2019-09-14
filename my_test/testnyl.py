@@ -1,0 +1,21 @@
+{
+  "project_name": "${project_name}",
+  "gerrit_url": "${gerrit_url}",
+  "gerrit_port": "${gerrit_port}",
+  "git_repo": "${git_repo}",
+  "branch": "${branch}",
+  "branch_type": "${branch_type}",
+  "base_sha1": "${base_sha1}",
+  "base_tag": "${base_tag}",
+  "upstream_branch": "${upstream_branch}",
+  "operation": "${operation}",
+  "openrator": "${openrator}",
+  "operation_time": "${operation_time}",
+  "os_type": "${os_type}",
+  "os_version": "${os_version}",
+  "chip_type": "${chip_type}",
+  "chip_version": "${chip_version}",
+  "is_manifest_repo": "${is_manifest_repo}",
+  "description": "${description}",
+  "active": "${active}"
+ }

@@ -1,0 +1,21 @@
+[{
+  "project_name": "Plane",
+  "gerrit_url": "http://192.168.11.88/gerrit1",
+  "gerrit_port": "294181",
+  "git_repo": "-",
+  "branch": "archimedes",
+  "branch_type": "public",
+  "base_sha1": "-",
+  "base_tag": "",
+  "upstream_branch": "",
+  "operation": "Add",
+  "openrator": "dengge0914",
+  "operation_time": "2019-06-21 16:27:17",
+  "os_type": "",
+  "os_version": "",
+  "chip_type": "",
+  "chip_version": "",
+  "is_manifest_repo": "No",
+  "description": "",
+  "active": "Yes"
+ }]
